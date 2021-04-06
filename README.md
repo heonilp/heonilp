@@ -1,4 +1,4 @@
-### Hi there 👋 스스로 학습하고 많이 배울려는 개발자입니다.
+### Hi there 👋  다양한 분야를 학습하고 많이 배울려는 개발자입니다.
 
 ![heonilp's GitHub stats](https://github-readme-stats.vercel.app/api?username=heonilp)
 
