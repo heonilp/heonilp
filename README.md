@@ -1,4 +1,5 @@
 ### Hi there 👋  다양한 분야를 학습하고 많이 배울려는 개발자입니다.
+관심분야 : 서버(백엔드, 데이터베이스), 클라우드, 게임
 
 ![heonilp's GitHub stats](https://github-readme-stats.vercel.app/api?username=heonilp)
 
